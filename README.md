@@ -10,6 +10,7 @@ Margaretlxh 的个人博客
 
 ### 最新
 
+* [数据分析项目--SQL的用户消费分析](http://xuexile.me/articles/2019/12/04/1575446038537.html)
 * [世界，你好！](http://xuexile.me/hello-solo)
 
 
